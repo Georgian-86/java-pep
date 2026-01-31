@@ -28,3 +28,8 @@ public class strPalindrome {
         sc.close();
     }
 }
+
+
+// [3, 4, 6, 4, 6] you are given an array of that keeps track of your monthly expenses. 
+// find total expense from month 2 to month 5 (both inclusive) using prefix sum technique
+
